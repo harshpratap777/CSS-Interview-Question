@@ -1,0 +1,22 @@
+h1{color: red; }
+h2{color: hsl(113, 96%, 50%); font-style: italic;}
+span{
+    background-color: yellow;
+    font-weight: bold;
+}
+.italic{ font-style: italic;
+text-decoration: underline;}
+.a1{letter-spacing: 6px;
+color: brown;}
+h3{color: brown;font-style:initial;}
+.a2{
+    font-weight: 100; color: brown;
+}
+.a3{
+    font-weight: 900; color: brown;
+}
+.a4{
+    color: brown;
+    text-decoration: none;
+    background-color: yellow;
+}
